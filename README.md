@@ -7,4 +7,5 @@ To install and autostart script on RPI boot do next steps:
 3. Put follow code before ``exit 0``: ```sudo python /home/{YOUR_USERNAME}/cpu_fan_control/cpu_coolers.py &```.
 
 # Copyrights
-Code from http://codius.ru/articles/Raspberry_Pi_3_GPIO_%D1%87%D0%B0%D1%81%D1%82%D1%8C_3
+[Code from] (http://codius.ru/articles/Raspberry_Pi_3_GPIO_%D1%87%D0%B0%D1%81%D1%82%D1%8C_3)
+
